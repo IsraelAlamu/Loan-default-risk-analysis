@@ -44,6 +44,10 @@ The company identified a loan default rate higher than target levels. Management
 - Apply stricter checks for high DTI borrowers
 - Adjust pricing or terms based on borrower risk
 
+## Dashboard Preview
+
+![Loan Default Risk Dashboard](https://github.com/IsraelAlamu/Loan-default-risk-analysis/blob/main/Screenshot%202026-04-29%20001649.png?raw=true)
+
 ## Author
 Israel Alamu
 Business Intelligence / Data Analyst
