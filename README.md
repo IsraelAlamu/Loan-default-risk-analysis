@@ -1,2 +1,49 @@
-# Loan-default-risk-analysis
-SQL and Power BI project analyzing loan default risk, borrower profiles, and key risk drivers.
+# Loan Default Risk Analysis
+
+## Project Overview
+This project analyzes personal loan performance data to identify the main factors driving loan defaults. The goal is to help lenders reduce risk, improve approval strategies, and make better lending decisions.
+
+## Tools Used
+- SQL (Data Cleaning & Analysis)
+- Power BI (Dashboard & Visualization)
+- Excel / CSV (Raw Data Source)
+
+## Business Problem
+The company identified a loan default rate higher than target levels. Management needed insights into borrower behavior, risk patterns, and loan characteristics causing higher defaults.
+
+## Key Questions Answered
+- What is the overall loan default rate?
+- Which loan purpose has the highest default rate?
+- How does credit score impact default risk?
+- How does debt-to-income ratio affect defaults?
+- Which loan terms show higher risk?
+- Do higher loan amounts lead to more defaults?
+
+## Key Insights
+- Wedding loans had the highest default rates.
+- Lower credit score borrowers showed significantly higher default risk.
+- Higher debt-to-income ratios were linked to increased defaults.
+- Certain loan terms had stronger default patterns than others.
+
+## Dashboard Features
+- KPI cards for total loans, defaults, and default rate
+- Loan purpose default comparison
+- Credit score risk analysis
+- DTI ratio analysis
+- Loan term trends
+- Interactive filters and slicers
+
+## Files Included
+- SQL Queries
+- Cleaned Dataset
+- Project Screenshots
+
+## Business Recommendation
+- Tighten approval criteria for low credit score applicants
+- Review high-risk loan purposes
+- Apply stricter checks for high DTI borrowers
+- Adjust pricing or terms based on borrower risk
+
+## Author
+Israel Alamu
+Business Intelligence / Data Analyst
