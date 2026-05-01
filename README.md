@@ -8,6 +8,17 @@ This project analyzes personal loan performance data to identify the main factor
 - Power BI (Dashboard & Visualization)
 - Excel / CSV (Raw Data Source)
 
+## Business Problem
+The company identified a loan default rate higher than target levels. Management needed insights into borrower behavior, risk patterns, and loan characteristics causing higher defaults.
+
+## Key Questions Answered
+- What is the overall loan default rate?
+- Which loan purpose has the highest default rate?
+- How does credit score impact default risk?
+- How does debt-to-income ratio affect defaults?
+- Which loan terms show higher risk?
+- Do higher loan amounts lead to more defaults?
+
 ## 💻 SQL Analysis
 
 The SQL queries were used to clean, transform, and analyze loan application data to identify key factors influencing default risk.
@@ -28,18 +39,6 @@ SELECT
     ROUND(SUM(CAST(defaulted AS INT)) * 100.0 / COUNT(*), 2) AS Overall_Default_Rate
 FROM loan_applications;
 ```
-
-## Business Problem
-The company identified a loan default rate higher than target levels. Management needed insights into borrower behavior, risk patterns, and loan characteristics causing higher defaults.
-
-## Key Questions Answered
-- What is the overall loan default rate?
-- Which loan purpose has the highest default rate?
-- How does credit score impact default risk?
-- How does debt-to-income ratio affect defaults?
-- Which loan terms show higher risk?
-- Do higher loan amounts lead to more defaults?
-
 ## Key Insights
 - Wedding loans had the highest default rates.
 - Lower credit score borrowers showed significantly higher default risk.
