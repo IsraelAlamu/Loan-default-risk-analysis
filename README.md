@@ -7,7 +7,7 @@
 - Analyzed factors influencing loan defaults
 - Identified high-risk customer segments
 
-👉 [View Project](PASTE-LOAN-RISK-LINK)
+👉 [View Project](https://github.com/IsraelAlamu/Loan-default-risk-analysis)
 
 ---
 
