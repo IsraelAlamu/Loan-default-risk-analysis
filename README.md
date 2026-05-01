@@ -1,24 +1,3 @@
-# Data Analytics Portfolio – Israel Alamu
-
-## 🔹 Projects
-
-### 1. Loan Default Risk Analysis
-- Tools: SQL, Power BI
-- Analyzed factors influencing loan defaults
-- Identified high-risk customer segments
-
-👉 [View Project](https://github.com/IsraelAlamu/Loan-default-risk-analysis)
-
----
-
-### 2. Adventure Hardware Group (AHG) Sales Analysis
-- Tools: SQL, Power BI
-- Analyzed sales performance across regions and channels
-- Identified trends such as declining store sales and lower online revenue per order
-
-👉 [View Project](https://github.com/IsraelAlamu/ahg_sales-analysis)
-
----
 
 # Loan Default Risk Analysis
 
