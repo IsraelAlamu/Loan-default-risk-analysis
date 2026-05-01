@@ -8,6 +8,27 @@ This project analyzes personal loan performance data to identify the main factor
 - Power BI (Dashboard & Visualization)
 - Excel / CSV (Raw Data Source)
 
+## 💻 SQL Analysis
+
+The SQL queries were used to clean, transform, and analyze loan application data to identify key factors influencing default risk.
+
+Key SQL work included:
+- Calculating overall default rate
+- Segmenting customers by credit score ranges
+- Aggregating loan performance metrics
+- Identifying high-risk customer groups
+- Preparing data for Power BI dashboard visualization
+
+### 🔍 Sample Query
+
+```sql
+SELECT 
+    SUM(CAST(defaulted AS INT)) AS Total_Default,
+    COUNT(*) AS Total_Loans,
+    ROUND(SUM(CAST(defaulted AS INT)) * 100.0 / COUNT(*), 2) AS Overall_Default_Rate
+FROM loan_applications;
+```
+
 ## Business Problem
 The company identified a loan default rate higher than target levels. Management needed insights into borrower behavior, risk patterns, and loan characteristics causing higher defaults.
 
