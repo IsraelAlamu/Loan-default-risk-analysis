@@ -16,7 +16,7 @@
 - Analyzed sales performance across regions and channels
 - Identified trends such as declining store sales and lower online revenue per order
 
-👉 [View Project](PASTE-AHG-LINK)
+👉 [View Project](https://github.com/IsraelAlamu/ahg_sales-analysis)
 
 ---
 
