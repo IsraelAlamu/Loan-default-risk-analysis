@@ -14,10 +14,10 @@ The company identified a loan default rate higher than target levels. Management
 
 ## Data Validation Approach
 
-To ensure accurate and reliable insights, the dataset was validated prior to analysis. This included checking for missing values in key fields such as credit score and income, identifying potential duplicate borrower records, and validating DTI ratios to ensure values were within realistic ranges.
-
-Additional checks were performed to confirm consistency between borrower profiles and loan application records, ensuring proper relationships across datasets before calculating KPIs.
-
+🔍 Data Quality Checks
+Checked for missing values in critical fields (credit score, income)
+Identified potential duplicate borrower records
+Validated DTI ratio ranges to detect unrealistic values
 
 ## Key Questions Answered
 - What is the overall loan default rate?
