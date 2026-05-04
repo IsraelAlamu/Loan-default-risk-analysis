@@ -14,9 +14,12 @@ The company identified a loan default rate higher than target levels. Management
 
 ## Data Validation Approach
 
-🔍 Data Quality Checks
+Data Quality Checks
+
 Checked for missing values in critical fields (credit score, income)
+
 Identified potential duplicate borrower records
+
 Validated DTI ratio ranges to detect unrealistic values
 
 ## Key Questions Answered
