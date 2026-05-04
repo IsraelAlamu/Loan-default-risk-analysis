@@ -13,6 +13,7 @@ This project analyzes personal loan performance data to identify the main factor
 The company identified a loan default rate higher than target levels. Management needed insights into borrower behavior, risk patterns, and loan characteristics causing higher defaults.
 
 🧪 Data Validation Approach
+
 To ensure accurate and reliable insights, the dataset was validated prior to analysis. This included checking for missing values in key fields such as credit score and income, identifying potential duplicate borrower records, and validating DTI ratios to ensure values were within realistic ranges.
 
 Additional checks were performed to confirm consistency between borrower profiles and loan application records, ensuring proper relationships across datasets before calculating KPIs.
