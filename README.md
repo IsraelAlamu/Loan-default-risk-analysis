@@ -64,12 +64,7 @@ FROM loan_applications;
 - Loan term trends
 - Interactive filters and slicers
 
-## Files Included
-- SQL Queries
-- Cleaned Dataset
-- Project Screenshots
-
-## Business Recommendation
+## Business Recommendations
 - Tighten approval criteria for low credit score applicants
 - Review high-risk loan purposes
 - Apply stricter checks for high DTI borrowers
