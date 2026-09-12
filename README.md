@@ -72,7 +72,12 @@ FROM loan_applications;
 
 ## Dashboard Preview
 
-![Loan Default Risk Dashboard](https://github.com/IsraelAlamu/Loan-default-risk-analysis/blob/main/Screenshot%202026-04-29%20001649.png?raw=true)
+<p align="center">
+  <img src="loan-default-dashboard.png"
+       alt="Loan Default Risk Dashboard"
+       width="850">
+</p>
+</p>
 
 ## Author
 Israel Alamu
